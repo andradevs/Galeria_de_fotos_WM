@@ -1,2 +1,2 @@
-# Galeria_de_fotos_WM
+# Galeria de fotos WM
 Projeto realiziado durante o curso de Javascript da Cod3r na Udemy
